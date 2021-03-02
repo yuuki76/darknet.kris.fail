@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+title:       darknet.kris.fail
+email:       kris57+dark@outlook.jp
+author:      Kris
+description: "匿名化,分散化,リッピングなどなど"
+baseurl:     "/"
+url:         "https://darknet.kris.fail"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -47,11 +47,11 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
-reddit_username:
+github_username:yuuki76
+reddit_username:yuuki76
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username:8A4MB
 skype_username:
 steam_nickname:
 google_plus_id:
@@ -68,7 +68,7 @@ vk_id:
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
 share_facebook: false
-share_twitter: false
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
